@@ -1,4 +1,4 @@
-```
+```javascript
 <script>
 export default {
   data() {
