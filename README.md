@@ -1,3 +1,10 @@
+特にこの2つ!!
+## create
+- インスタンス作成&dataオブジェクトにもアクセス可能
+
+## mounted
+- DOM作成&マウント完了
+
 ```javascript
 <script>
 export default {
