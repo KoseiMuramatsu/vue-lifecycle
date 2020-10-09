@@ -1,3 +1,4 @@
+```
 <script>
 export default {
   data() {
@@ -54,3 +55,4 @@ export default {
     // SSRの場合は使えない
   }
 }
+```
